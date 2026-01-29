@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naomi-rc
-- 👀 I’m enthusiastic about XR technologies, game development and interactive media projects.
-- 🌱 I’m currently learning VR development in Unity.
-- 💞️ I’m looking to collaborate on all things creative!
+- 🎓I'm a master's research student specializing in immersive technologies for education and training.
+- 💖 I’m passionate about XR (AR/VR) technologies, game development, interactive media projects and applied AI.
+- 🌱 I’m looking to collaborate on all things creative!
 
 
 <!---
